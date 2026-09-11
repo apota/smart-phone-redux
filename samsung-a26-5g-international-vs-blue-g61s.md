@@ -1,6 +1,6 @@
 # Samsung Galaxy A26 5G (International) vs BLUE G61S
 
-**New phone:** Samsung Galaxy A26 5G, 256 GB / 8 GB, dual-SIM, 6.7" 120 Hz AMOLED, IP67, Android 15, **International factory-unlocked "for T-Mobile"**, 25 W charger bundle (Amazon B0F2B1D586). Model is the international `SM-A266B` or `SM-A266E`, **not** the US `SM-A266U`.
+**New phone:** Samsung Galaxy A26 5G, 256 GB / 8 GB, dual-SIM, 6.7" 120 Hz AMOLED, IP67, Android 15, **International factory-unlocked "for T-Mobile"**, 25 W charger bundle ([Amazon B0F2B1D586](https://www.amazon.com/SAMSUNG-Resistant-International-Unlocked-T-Mobile/dp/B0F2B1D586/)). Model is the international `SM-A266B` or `SM-A266E`, **not** the US `SM-A266U`.
 **Old phone:** BLUE G61S (Product ID 00325-81618-91412-AAOEM)
 
 **Comparison Rank: 2 / 10** (Best Samsung in the list on paper — 8 GB RAM, 256 GB, 120 Hz AMOLED, IP67, and **it's the only listing that ships with a charger**. Held back only by the international-variant T-Mobile 5G band uncertainty.)

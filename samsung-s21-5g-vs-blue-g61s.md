@@ -1,6 +1,6 @@
 # Samsung Galaxy S21 5G (Snapdragon) vs BLUE G61S
 
-**New phone:** Samsung Galaxy S21 5G, Snapdragon 888, unlocked US (Amazon B092CFG6MN). Likely SM-G991U. Almost certainly **Renewed/refurbished**.
+**New phone:** Samsung Galaxy S21 5G, Snapdragon 888, unlocked US ([Amazon B092CFG6MN](https://www.amazon.com/Samsung-Galaxy-S21-5G-Snapdragon/dp/B092CFG6MN/)). Likely SM-G991U. Almost certainly **Renewed/refurbished**.
 **Old phone:** BLUE G61S (Product ID 00325-81618-91412-AAOEM)
 
 **Comparison Rank: 7 / 10** (Was a 2021 flagship, so raw SoC/display/camera beats every A-series here. Held back by 5-year age, aged battery, waning software support, no headphone jack, and no microSD — two amenities you *have* on the G61S today.)

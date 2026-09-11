@@ -1,6 +1,6 @@
 # Samsung Galaxy A17 5G vs BLUE G61S
 
-**New phone:** Samsung Galaxy A17 5G, 128 GB, US 1-yr manufacturer warranty, 2025 (Amazon B0FXY1DZ78). Likely model SM-A176U.
+**New phone:** Samsung Galaxy A17 5G, 128 GB, US 1-yr manufacturer warranty, 2025 ([Amazon B0FXY1DZ78](https://www.amazon.com/Samsung-High-Res-Charging-Expandable-Manufacturer/dp/B0FXY1DZ78/)). Likely model SM-A176U.
 **Old phone:** BLUE G61S (Product ID 00325-81618-91412-AAOEM)
 
 **Comparison Rank: 3 / 10** (Best A-series option in the list: newer SoC than the A16, US variant so real T-Mobile 5G, unlocked, 6 years of updates, AMOLED, OIS added on the main camera.)

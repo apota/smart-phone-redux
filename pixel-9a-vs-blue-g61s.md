@@ -1,6 +1,6 @@
 # Google Pixel 9a (Renewed) vs BLUE G61S
 
-**New phone:** Google Pixel 9a 5G, 128 GB + 8 GB RAM, Obsidian — Unlocked, **Renewed** (Amazon B0FMKLGFL6)
+**New phone:** Google Pixel 9a 5G, 128 GB + 8 GB RAM, Obsidian — Unlocked, **Renewed** ([Amazon B0FMKLGFL6](https://www.amazon.com/Google-Pixel-9a-Gemini-Smartphone/dp/B0FMKLGFL6/))
 **Old phone:** BLUE G61S (Product ID 00325-81618-91412-AAOEM)
 
 **Comparison Rank: 1 / 10** (Top rank — best camera and update-longevity story of the six listings. Renewed status trades new-unit warranty for a lower price.)

@@ -1,6 +1,6 @@
 # Samsung Galaxy A16 5G (T-Mobile locked) vs BLUE G61S
 
-**New phone:** Samsung Galaxy A16 5G, US version, **T-Mobile network only** (Amazon B0DYMXWDSY). Likely model SM-A166U locked to T-Mobile.
+**New phone:** Samsung Galaxy A16 5G, US version, **T-Mobile network only** ([Amazon B0DYMXWDSY](https://www.amazon.com/SAMSUNG-Smartphone-Charging-Expandable-T-Mobile/dp/B0DYMXWDSY/)). Likely model SM-A166U locked to T-Mobile.
 **Old phone:** BLUE G61S (Product ID 00325-81618-91412-AAOEM)
 
 **Comparison Rank: 5 / 10** (Solid T-Mobile-specific budget upgrade with real US 5G bands, but the carrier lock is a downside vs the identically-specced unlocked A16.)

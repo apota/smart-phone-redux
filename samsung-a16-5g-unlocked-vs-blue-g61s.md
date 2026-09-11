@@ -1,6 +1,6 @@
 # Samsung Galaxy A16 5G (Unlocked, US) vs BLUE G61S
 
-**New phone:** Samsung Galaxy A16 5G, US version, unlocked, 2025 (Amazon B0DLHNWHRF). Likely model SM-A166U.
+**New phone:** Samsung Galaxy A16 5G, US version, unlocked, 2025 ([Amazon B0DLHNWHRF](https://www.amazon.com/SAMSUNG-Unlocked-Smartphone-Charging-Expandable/dp/B0DLHNWHRF/)). Likely model SM-A166U.
 **Old phone:** BLUE G61S (Product ID 00325-81618-91412-AAOEM)
 
 **Comparison Rank: 4 / 10** (Same hardware as the T-Mobile-locked A16 but **unlocked** — strictly better because you keep multi-carrier flexibility. Ranks just behind the A17 which added OIS and a newer chip.)
