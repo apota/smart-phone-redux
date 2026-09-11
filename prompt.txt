@@ -1,0 +1,28 @@
+Compare every phone listed in C:\work\rajiv-devices\phone-comparisons\amazon_phone_list.txt
+to Phone: BLUE G61S: Product ID:  00325-81618-91412-AAOEM and answer the following questions
+using new phone and old phone terminology to mean the new phone is the one in the list and the
+old one I'm trying to replace
+:
+
+
+1. Is there more storage on new phone?
+2. Is there more memory on new phone?
+3. Is there better camera on new phone?
+4. Does new phone come with charger?
+5. Will charger for old phone work with the new phone?
+6. Does new phone have e-SIM support?
+7. Can I transfer SIM from old to new phone and expect it to work, assuming new phones are unlocked
+   and assume T-Mobile carrier for the old phone and new phone. 
+8.How long does the battery last upon charge on new phone?   
+9. Will the new phone connect to Wi-Fi?
+9. Will the new phone have headphone jack??
+9. Will the new phone have micro SD card
+
+
+Do a tabular comparison New v/s old and create a new document for each new phone compared and
+put the documents in C:\work\rajiv-devices\phone-comparisons
+
+Also each new phone a comparison rank from 1 to 10, 1 being top rank and 10 being bottom rank. State
+the rank in the generated documents.
+
+
