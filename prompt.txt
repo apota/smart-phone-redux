@@ -1,4 +1,4 @@
-Compare every phone listed in C:\work\rajiv-devices\phone-comparisons\amazon_phone_list.txt
+Compare every phone listed in C:\personal\smart-phone-redux\amazon_phone_list.txt
 to Phone: BLUE G61S: Product ID:  00325-81618-91412-AAOEM and answer the following questions
 using new phone and old phone terminology to mean the new phone is the one in the list and the
 old one I'm trying to replace
