@@ -56,3 +56,10 @@
 - **Age is the killer.** The Snapdragon 888 and IP68 flagship build are excellent, but Samsung's support window closes around 2025. Aged battery is a real concern on any 5-year-old refurb.
 - **Losses vs the G61S:** headphone jack, microSD, and battery health. All three matter.
 - Buy only if the price is genuinely cheap — otherwise the Pixel 9a beats it in most dimensions except telephoto.
+
+## Charger compatibility: LDNIO 4-Port 65W (Amazon B09Q33Z374)
+
+**Will it fast-charge? Yes.** The LDNIO advertises USB-PD 3.0 + QC 4.0 + **PPS**, which is exactly what Samsung's 25 W Super Fast Charging requires (PPS at 9 V/2.77 A or 11 V/2.25 A). Full 25 W wired speed on the top USB-C port when used solo. Qi wireless is separate — the LDNIO is wired-only.
+
+- Caveat: 65 W is the **total** across all 4 ports. Sharing the hub with a laptop or second phone will throttle the S21 below 25 W.
+- Aged S21 battery may not draw peak 25 W throughout the charge cycle regardless of the brick — that's a battery-health limit, not a charger one.

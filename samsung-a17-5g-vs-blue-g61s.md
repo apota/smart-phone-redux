@@ -55,3 +55,9 @@
 - 2025 refresh of the A16; the OIS on the main camera is the biggest real upgrade.
 - Keeps both headphone jack and microSD — nothing lost vs the G61S on those fronts.
 - No IP68, no wireless charging, plastic frame — still a budget device.
+
+## Charger compatibility: LDNIO 4-Port 65W (Amazon B09Q33Z374)
+
+**Will it fast-charge? Yes.** The LDNIO advertises USB-PD 3.0 + QC 4.0 + **PPS**, which is exactly what Samsung's 25 W Super Fast Charging requires (PPS at 9 V/2.77 A or 11 V/2.25 A). Full 25 W wired speed on the top USB-C port when used solo.
+
+- Caveat: 65 W is the **total** across all 4 ports. Sharing the hub with a laptop or second phone will throttle the A17 below 25 W.

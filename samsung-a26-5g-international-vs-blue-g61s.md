@@ -57,3 +57,9 @@
 - IP67, 120 Hz AMOLED, and 8 GB RAM at this price point are exceptional value.
 - **International warranty:** US Samsung service centers **will not honor** international warranties. Rely on the seller's/Amazon's return policy.
 - Consider an IMEI check on T-Mobile's site before finalizing — some non-US models get VoLTE deprioritized.
+
+## Charger compatibility: LDNIO 4-Port 65W (Amazon B09Q33Z374)
+
+**Will it fast-charge? Yes.** The LDNIO advertises USB-PD 3.0 + QC 4.0 + **PPS**, which is exactly what Samsung's 25 W Super Fast Charging requires (PPS at 9 V/2.77 A or 11 V/2.25 A). Full 25 W wired speed on the top USB-C port when used solo. Note that this listing already includes a 25 W brick, so the LDNIO is only useful here as a multi-device hub.
+
+- Caveat: 65 W is the **total** across all 4 ports. Sharing the hub with a laptop or second phone will throttle the A26 below 25 W.

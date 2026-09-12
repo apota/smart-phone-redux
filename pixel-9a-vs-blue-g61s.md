@@ -54,3 +54,9 @@
 
 - **Renewed:** Amazon Renewed provides ~90-day warranty; you lose Google's 1-year new warranty. Cosmetic wear possible.
 - The two G61S conveniences that Pixel 9a drops: **headphone jack** and **microSD**. If either matters, that's a real regression.
+
+## Charger compatibility: LDNIO 4-Port 65W (Amazon B09Q33Z374)
+
+**Will it fast-charge? Yes.** The LDNIO advertises USB-PD 3.0 + QC 4.0 + **PPS**, and the Pixel 9a's 23 W peak is negotiated over USB-PD PPS — well within the 65 W budget. Expect full rated 23 W wired speed from the top USB-C port when used solo.
+
+- Caveat: 65 W is the **total** across all 4 ports. If a laptop or a second phone is sharing the hub, the Pixel's port will throttle and may drop below 23 W.

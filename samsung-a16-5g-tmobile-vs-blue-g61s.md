@@ -56,3 +56,9 @@
 - **Carrier lock is the main trade-off.** Cannot switch to Verizon/AT&T without T-Mobile unlocking it (typically 40 days of active service).
 - Preserves headphone jack + microSD — a win for anyone using either.
 - Same hardware as the unlocked A16 5G — prefer the unlocked listing if similarly priced.
+
+## Charger compatibility: LDNIO 4-Port 65W (Amazon B09Q33Z374)
+
+**Will it fast-charge? Yes.** The LDNIO advertises USB-PD 3.0 + QC 4.0 + **PPS**, which is exactly what Samsung's 25 W Super Fast Charging requires (PPS at 9 V/2.77 A or 11 V/2.25 A). Full 25 W wired speed on the top USB-C port when used solo.
+
+- Caveat: 65 W is the **total** across all 4 ports. Sharing the hub with a laptop or second phone will throttle the A16 below 25 W.
