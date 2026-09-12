@@ -47,6 +47,7 @@
 | 9 | Will connect to Wi-Fi? | **Yes** — Wi-Fi 5 (802.11ac), 2.4 & 5 GHz. Same generation as the G61S. |
 | 10 | Headphone jack? | **Yes** — retains 3.5 mm. No adapter needed. |
 | 11 | microSD card slot? | **Yes** — dedicated slot, expandable up to 1 TB. |
+| 12 | Fast charging? | **Yes** — 25 W wired (Samsung Adaptive Fast Charging / USB‑PD PPS). No wireless charging. Charger not included, so you need a 25 W+ USB‑C PD brick to hit rated speed. |
 
 ---
 

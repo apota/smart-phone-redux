@@ -46,6 +46,7 @@
 | 9 | Will connect to Wi-Fi? | **Yes** — Wi-Fi 5 (802.11ac), 2.4 & 5 GHz. |
 | 10 | Headphone jack? | **Yes** — 3.5 mm retained. |
 | 11 | microSD card slot? | **Yes** — expandable up to 1 TB. |
+| 12 | Fast charging? | **Yes** — 25 W wired (Samsung Adaptive Fast Charging / USB‑PD PPS). No wireless charging. Charger not included, so you need a 25 W+ USB‑C PD brick to hit rated speed. |
 
 ---
 

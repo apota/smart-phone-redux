@@ -47,6 +47,7 @@
 | 9 | Will connect to Wi-Fi? | **Yes** — Wi-Fi 6 (802.11ax), 2.4 & 5 GHz. A generation ahead of the G61S. |
 | 10 | Headphone jack? | **No.** Samsung dropped it starting the S20 series. Use USB-C or Bluetooth. |
 | 11 | microSD card slot? | **No.** The S21 series is where Samsung removed microSD from the S-line. Storage is fixed. |
+| 12 | Fast charging? | **Yes** — 25 W wired (Samsung Adaptive Fast Charging / USB‑PD PPS), **15 W Qi wireless**, and 4.5 W reverse wireless. Most complete charging feature-set of any phone in this list. Charger not included; needs a 25 W+ USB‑C PD brick for full wired speed. |
 
 ---
 

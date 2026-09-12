@@ -46,6 +46,7 @@
 | 9 | Will connect to Wi-Fi? | **Yes** — Wi-Fi 5 (802.11ac), 2.4 & 5 GHz. |
 | 10 | Headphone jack? | **Yes** — 3.5 mm retained (A2x-series keeps it). |
 | 11 | microSD card slot? | **Yes** — expandable via microSD. |
+| 12 | Fast charging? | **Yes** — 25 W wired (Samsung Adaptive Fast Charging / USB‑PD PPS). No wireless charging. **25 W charger included** with this listing, so rated speed works out of the box. |
 
 ---
 
